@@ -1,4 +1,4 @@
-### Screenshots of the application is inside screenshots folder.
+### Screenshots of the application is inside "screenshots" folder.
 
 ## Create a .env file in then root and add the following
 
